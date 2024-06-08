@@ -1,0 +1,13 @@
+__ci_last_regenerate|i:1717794121;_ci_previous_url|s:45:"http://localhost:8080/index.php/mahasiswa/add";_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:5:{s:14:"csrf_test_name";s:32:"f96e299e78df20155d8bc47e95d59e12";s:4:"Nama";s:5:"ass  ";s:6:"Alamat";s:0:"";s:4:"NoHp";s:0:"";s:5:"Email";s:0:"";}}__ci_vars|a:4:{s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";s:16:"redirectedErrors";s:3:"old";s:15:"redirectedInput";s:3:"old";}_ci_validation_errors|a:5:{s:12:"JenisKelamin";s:35:"The JenisKelamin field is required.";s:6:"Alamat";s:29:"The Alamat field is required.";s:5:"Agama";s:28:"The Agama field is required.";s:4:"NoHp";s:27:"The NoHp field is required.";s:5:"Email";s:28:"The Email field is required.";}redirectedErrors|s:416:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>The JenisKelamin field is required.</li>
+					<li>The Alamat field is required.</li>
+					<li>The Agama field is required.</li>
+					<li>The NoHp field is required.</li>
+					<li>The Email field is required.</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";redirectedInput|a:5:{s:14:"csrf_test_name";s:32:"f96e299e78df20155d8bc47e95d59e12";s:4:"Nama";s:5:"ass  ";s:6:"Alamat";s:0:"";s:4:"NoHp";s:0:"";s:5:"Email";s:0:"";}
